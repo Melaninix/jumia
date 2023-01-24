@@ -1,0 +1,25 @@
+.search-bar{
+    width: 500px;
+}
+.search{
+    background-color: #f68b1e;
+    border: #f68b1e;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.bar{
+    margin-left: 10px;
+    font-size:medium;
+    font-weight: bold;
+}
+.jumia{
+    box-shadow: 0 4px 4px -4px rgb(0 0 0 / 12%);
+    border: solid #fff;
+    background-color: #fff;
+    height: 72px;
+}
+.jum{
+    margin-top: -30px;
+    margin-left: 100px;
+}

@@ -1,0 +1,16 @@
+.slides5{
+    -ms-text-overflow-style: none;
+    scrollbar-width: none;
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+.slides5::-webkit-scrollbar {
+    display: none;
+}
+.slide-img5{
+    width: 200px;
+    margin-right: 10px;
+}
+.slide-img5:hover{
+    scale: 1.05;
+}

@@ -1,0 +1,15 @@
+.triple-banner{
+    background-color: #fff;
+    /* padding-left: 5px;
+    padding-right: 5px;
+    border: 1px; */
+}
+.triple{
+    margin-right: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 98%;
+}
+.triple:hover{
+    scale: 1.01;
+}

@@ -1,0 +1,119 @@
+.slide1{
+    border: 1px solid #fff;
+    background-color: #fff;
+    margin-top: 30px;
+    padding: 10px 40px 50px 40px;
+    display: flex;
+}
+.slide-img{
+    width: 120px;
+    height: 120px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+}
+.slide-img:hover{
+    scale: 1.05;
+}
+.slides{
+    -ms-text-overflow-style: none;
+    scrollbar-width: none;
+    border: 10px solid #fff;
+    background-color: #fff;
+    margin-top: 30px;
+    /* padding-left: 10px; */
+}
+.slides::-webkit-scrollbar {
+    display: none;
+}
+.recommended{
+    border: 1px solid #fff;
+    background-color: #fff;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 890px;
+}
+.recom{
+    margin-top: 30px;
+    margin-bottom: -4px;
+}
+.slides2{
+    -ms-text-overflow-style: none;
+    scrollbar-width: none;
+    border: 1px solid #fff;
+    background-color: #fff;
+    /* margin-top: -10px; */
+    /* padding-left: 10px; */
+}
+.slides2::-webkit-scrollbar {
+    display: none;
+}
+.slide-img2{
+    width: 200px;
+}
+.slide-img2:hover{
+    scale: 1.05;
+}
+.flash-sales{
+    /* border: 1px solid #e61601; */
+    background-color: #e61601;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: #fff;
+    /* font-weight: bold; */
+    height: 2px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 985px;
+}
+.flash{
+    margin-top: 20px;
+    margin-bottom: -2px;
+}
+.slides3{
+    -ms-text-overflow-style: none;
+    scrollbar-width: none;
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+.slides3::-webkit-scrollbar {
+    display: none;
+}
+.slide-img3{
+    width: 200px;
+    margin-right: 10px;
+}
+.slide-img3:hover{
+    scale: 1.05;
+}
+.flash-icon{
+    color: orange;
+}
+.buy-more{
+    background-color: #DEF1FD;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 630px;
+}
+.buy{
+    margin-top: 15px;
+    margin-bottom: -10px;
+}
+.slides4{
+    -ms-text-overflow-style: none;
+    scrollbar-width: none;
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+.slides4::-webkit-scrollbar {
+    display: none;
+}
+.slide-img4{
+    width: 200px;
+    margin-right: 10px;
+}
+.slide-img4:hover{
+    scale: 1.05;
+}

@@ -1,0 +1,42 @@
+.list{
+    font-size: .75rem;
+    border:1px solid #fff;
+    background-color: #fff;
+    padding-left: 10px;
+    padding-right: 50px;
+    height: 380px;
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 5px;
+}   
+.slide{
+    margin-left: 15px;
+    width: 100%;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.images{
+    height: 380px;
+    border-radius: 5px;
+    width: 100%;
+}
+.order{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.everyday{
+    border-radius: 5px;
+}
+.now{
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.items{
+    padding-top: 6px;
+    padding-left: 4px;
+    margin-bottom: 5px;
+    display: flex;
+}
+.fa-solid{
+    margin-top: 2px;
+}

@@ -1,0 +1,51 @@
+#sell{
+    color: #f68b1e;
+    font-size: small;
+}
+#sell:hover{
+    text-decoration: underline;
+}
+#star{
+    margin-top: 10px;
+}
+.pay{
+    opacity: 0.2;
+}
+.pay:hover{
+    opacity: 1;
+}
+.food{
+    opacity: 0.2;
+}
+.food:hover{
+    opacity: 1;
+}
+.party{
+    margin-top: -15px;
+    opacity: 0.2;
+}
+.party:hover{
+    opacity: 1;
+}
+.prime{
+    opacity: 0.2;
+}
+.prime:hover{
+    opacity: 1;
+}
+.logistics{
+    opacity: 0.2;
+}
+.logistics:hover{
+    opacity: 1;
+}
+.services{
+    height: 37px;
+    margin-top: -20px;
+}
+.products{
+    margin-right: 350px;
+}
+.j-products{
+    margin-left: 10px;
+}

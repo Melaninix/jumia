@@ -1,0 +1,42 @@
+.footer-1{
+    background-color: #282828;
+}
+.newsletter{
+    width: 200px;
+    height: 50px;
+}
+.newsletter:focus{
+    border-color: orangered;
+    outline: none;
+    box-shadow: 0 0 0 0.025rem orangered;
+}
+.button-1{
+    color: #fff;
+    border: 1px solid #fff;
+}
+.button-1:hover{
+    color: orangered;
+    border: 1px solid orangered;
+    background-color: #282828;
+}
+.button-2{
+    color: #fff;
+    margin-left: 5px;
+    border: 1px solid #fff;
+}
+.button-2:hover{
+    color: orangered;
+    border: 1px solid orangered;
+    background-color: #282828;
+}
+#text{
+    color: #fff;
+    font-size: small;
+}
+#text-1{
+    color: #c7c7cd;
+    font-size: small;
+}
+.news{
+    margin-right: 20px;
+}
